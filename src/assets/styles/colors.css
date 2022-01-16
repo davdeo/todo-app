@@ -1,8 +1,17 @@
 :root {
-    --color-blue--very-dark: hsl(230deg 35% 7%);
-    --color-blue--very-dark--transparent: hsl(230deg 35% 7% / 10%);
-    --color-blue--very-light: hsl(231deg 77% 90%);
-    --color-blue--very-light--transparent: hsl(231deg 77% 90% / 10%);
-    --color-white: hsl(0deg 0% 100%);
-    --color-white--transparent: hsl(0deg 0% 100% / 4%);
+    --primary-blue--bright: hsl(220deg 98% 61%);
+    --primary-background-gradient: linear-gradient(hsl(192deg 100% 67%), hsl(280deg 87% 65%));
+    --primary-white: hsl(0deg 100% 100%);
+    --light-gray--very-light: hsl(0deg 0% 98%);
+    --light-grayish-blue--very-light: hsl(236deg 33% 92%);
+    --light-grayish-blue--light: hsl(233deg 11% 84%);
+    --light-grayish-blue--dark: hsl(236deg 9% 61%);
+    --light-grayish-blue--very-dark: hsl(235deg 19% 35%);
+    --dark-blue--very-dark: hsl(235deg 21% 11%);
+    --dark-desaturated-blue--very-dark: hsl(235deg 24% 19%);
+    --dark-grayish-blue--light: hsl(234deg 39% 85%);
+    --dark-grayish-blue--light--hover: hsl(236deg 33% 92%);
+    --dark-grayish-blue--dark: hsl(234deg 11% 52%);
+    --dark-grayish-blue--very-dark: hsl(233deg 14% 35%);
+    --dark-grayish-blue--very-very-dark: hsl(237deg 14% 26%);
 }
