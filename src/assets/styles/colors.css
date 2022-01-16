@@ -1,0 +1,8 @@
+:root {
+    --color-blue--very-dark: hsl(230deg 35% 7%);
+    --color-blue--very-dark--transparent: hsl(230deg 35% 7% / 10%);
+    --color-blue--very-light: hsl(231deg 77% 90%);
+    --color-blue--very-light--transparent: hsl(231deg 77% 90% / 10%);
+    --color-white: hsl(0deg 0% 100%);
+    --color-white--transparent: hsl(0deg 0% 100% / 4%);
+}

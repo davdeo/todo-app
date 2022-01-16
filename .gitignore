@@ -1,0 +1,22 @@
+.*
+dist/
+testresults/
+node_modules/
+
+yarn-error.log
+
+!.gitignore
+!.prettierrc
+
+# we want to share the webstorm configuration, so we need to add the idea folder, but exclude some critical parts
+# to read more about sharing the webstorm settings see https://www.jetbrains.com/help/idea/2016.2/synchronizing-and-sharing-settings.html
+!.idea
+.idea/workspace.xml
+.idea/libraries
+.idea/dictionaries
+.idea/vcs.xml
+.idea/**/tasks.xml
+.idea/**/datasources.xml
+.idea/**/dataSources.ids
+.idea/**/gradle.xml
+.idea/**/*.iws

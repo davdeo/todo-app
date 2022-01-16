@@ -1,0 +1,11 @@
+:root {
+    --font-weight--regular: 400;
+    --font-size: 18px;
+}
+
+@font-face {
+    font-weight: 400;
+    font-style: normal;
+    font-family: BarlowCondensed;
+    src: url('../fonts/BarlowCondensed.ttf ') format('truetype');
+}
